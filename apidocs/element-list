@@ -1,0 +1,12 @@
+com.itmo.programming
+com.itmo.programming.collection
+com.itmo.programming.command
+com.itmo.programming.command.exceptions
+com.itmo.programming.command.withArgument
+com.itmo.programming.command.withoutArgument
+com.itmo.programming.console
+com.itmo.programming.dto
+com.itmo.programming.entity
+com.itmo.programming.exceptions
+com.itmo.programming.fileworkers
+com.itmo.programming.fileworkers.exceptions
